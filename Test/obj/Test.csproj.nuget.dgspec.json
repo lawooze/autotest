@@ -4,11 +4,11 @@
     "C:\\Users\\812\\source\\repos\\autotest\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\812\\Source\\Repos\\autotest\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "C:\\Users\\812\\source\\repos\\autotest\\ClassLibrary1\\ClassLibrary1.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\812\\Source\\Repos\\autotest\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "C:\\Users\\812\\source\\repos\\autotest\\ClassLibrary1\\ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "C:\\Users\\812\\Source\\Repos\\autotest\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectPath": "C:\\Users\\812\\source\\repos\\autotest\\ClassLibrary1\\ClassLibrary1.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -109,16 +109,16 @@
         }
       }
     },
-    "C:\\Users\\812\\Source\\Repos\\autotest\\TRPOlaba\\TRPOlaba.csproj": {
+    "C:\\Users\\812\\source\\repos\\autotest\\TRPOlaba\\TRPOlaba.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\812\\Source\\Repos\\autotest\\TRPOlaba\\TRPOlaba.csproj",
+        "projectUniqueName": "C:\\Users\\812\\source\\repos\\autotest\\TRPOlaba\\TRPOlaba.csproj",
         "projectName": "TRPOlaba",
-        "projectPath": "C:\\Users\\812\\Source\\Repos\\autotest\\TRPOlaba\\TRPOlaba.csproj",
+        "projectPath": "C:\\Users\\812\\source\\repos\\autotest\\TRPOlaba\\TRPOlaba.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\812\\Source\\Repos\\autotest\\ClassLibrary1\\ClassLibrary1.csproj": {
-                "projectPath": "C:\\Users\\812\\Source\\Repos\\autotest\\ClassLibrary1\\ClassLibrary1.csproj"
+              "C:\\Users\\812\\source\\repos\\autotest\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "C:\\Users\\812\\source\\repos\\autotest\\ClassLibrary1\\ClassLibrary1.csproj"
               }
             }
           }

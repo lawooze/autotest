@@ -1,0 +1,10 @@
+C:\Users\812\source\repos\autotest\TRPOlaba\bin\Debug\TRPOlaba.exe.config
+C:\Users\812\source\repos\autotest\TRPOlaba\bin\Debug\TRPOlaba.exe
+C:\Users\812\source\repos\autotest\TRPOlaba\bin\Debug\TRPOlaba.pdb
+C:\Users\812\source\repos\autotest\TRPOlaba\bin\Debug\ClassLibrary1.dll
+C:\Users\812\source\repos\autotest\TRPOlaba\bin\Debug\ClassLibrary1.pdb
+C:\Users\812\source\repos\autotest\TRPOlaba\obj\Debug\TRPOlaba.csproj.AssemblyReference.cache
+C:\Users\812\source\repos\autotest\TRPOlaba\obj\Debug\TRPOlaba.csproj.CoreCompileInputs.cache
+C:\Users\812\source\repos\autotest\TRPOlaba\obj\Debug\TRPOlaba.csproj.Up2Date
+C:\Users\812\source\repos\autotest\TRPOlaba\obj\Debug\TRPOlaba.exe
+C:\Users\812\source\repos\autotest\TRPOlaba\obj\Debug\TRPOlaba.pdb
