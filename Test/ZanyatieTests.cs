@@ -10,7 +10,7 @@ namespace Test
         [TestMethod] // Атрибут, указывающий, что это метод с тестом
         public void Constructor_ShouldInitializeFields()
         {
-            // Arrange - подготовка данных для теста
+            // Arrange - это подготовка данных для теста
             DateTime expectedDate = new DateTime(2024, 6, 1); // Ожидаемая дата проведения
             Disciplina disciplina = new Disciplina("Matematika", "Mat"); // Создание объекта дисциплины
             Sotrudnik sotrudnik = new Sotrudnik("Ivan", "Ivanov"); // Создание объекта сотрудника
